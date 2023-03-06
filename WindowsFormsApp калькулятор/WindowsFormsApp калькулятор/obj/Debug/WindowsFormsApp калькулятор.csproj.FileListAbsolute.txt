@@ -1,0 +1,19 @@
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\bin\Debug\WindowsFormsApp калькулятор.exe.config
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\bin\Debug\WindowsFormsApp калькулятор.exe
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\bin\Debug\WindowsFormsApp калькулятор.pdb
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.AssemblyReference.cache
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.SuggestedBindingRedirects.cache
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp_калькулятор.Form1.resources
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp_калькулятор.Properties.Resources.resources
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.GenerateResource.cache
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.CoreCompileInputs.cache
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.exe
+I:\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.pdb
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp_калькулятор.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp_калькулятор.Properties.Resources.resources
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.exe
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.pdb
+I:\244-ИСП\244ИСП\ОАиП\Январёв Б\WindowsFormsApp калькулятор\WindowsFormsApp калькулятор\obj\Debug\WindowsFormsApp калькулятор.csproj.SuggestedBindingRedirects.cache
